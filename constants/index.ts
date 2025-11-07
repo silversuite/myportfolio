@@ -255,6 +255,12 @@ export const OTHER_SKILL = [
     width: 60,
     height: 60,
   },
+  {
+    skill_name: "Three.js",
+    image: "three.png",
+    width: 60,
+    height: 60,
+  },
 ] as const;
 
 export const PROJECTS = [
